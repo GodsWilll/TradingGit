@@ -1,3 +1,6 @@
+THis file has so many resources for Algo trading
+Should i add seconf line
+
 # EliteQuant
 A list of online resources for quantitative modeling, trading, portfolio management 
 
